@@ -53,7 +53,7 @@ export default function Home() {
           onClick={submitHandler}
           className="bg-emerald-700 text-white px-4 py-2 rounded hover:bg-emerald-800 transition"
         >
-          Add
+          Add task
         </button>
       </div>
 
